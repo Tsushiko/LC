@@ -1,0 +1,1 @@
+Trabalhos de Lógica Computacional
